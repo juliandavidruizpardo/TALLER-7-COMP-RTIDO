@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{76DFEFF2-FA31-4F41-BB24-9A462108DDC9}"
+	ProjectSection(SolutionItems) = preProject
+		PUNTO 10.CPP = PUNTO 10.CPP
+		PUNTO 11.CPP = PUNTO 11.CPP
+		PUNTO 12.CPP = PUNTO 12.CPP
+		PUNTO 13.CPP = PUNTO 13.CPP
+		PUNTO 2.CPP = PUNTO 2.CPP
+		PUNTO 3.CPP = PUNTO 3.CPP
+		PUNTO 4.CPP = PUNTO 4.CPP
+		PUNTO 5.CPP = PUNTO 5.CPP
+		PUNTO 6.CPP = PUNTO 6.CPP
+		PUNTO 7.CPP = PUNTO 7.CPP
+		PUNTO 8.CPP = PUNTO 8.CPP
+		PUNTO 9.CPP = PUNTO 9.CPP
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99B6C904-C3A3-4351-993F-5443834D587C}
+	EndGlobalSection
+EndGlobal
